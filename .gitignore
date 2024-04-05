@@ -1,0 +1,10 @@
+/ml-venv
+.ipynb_checkpoints
+.virtual_documents/
+
+data/
+pdfs/
+
+.DS_Store?
+*.DS_Store
+__pycache__/
